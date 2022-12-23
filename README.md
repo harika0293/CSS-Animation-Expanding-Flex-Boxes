@@ -8,11 +8,9 @@ expanding flex cards using JavaScript and JQuery
 * HTML
 * CSS
 * JavaScript
-* JQurey
 
-## View live site
 
-https://peter-kimanzi.github.io/expanding-flex-cards/
+
 
 
 ## Screenshots

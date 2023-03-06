@@ -1,4 +1,5 @@
 # Static Website
+Download this Project and open with Live Server
 
 ## Technologies used
 
@@ -7,3 +8,4 @@
 * JavaScript
 
 # Enjoy !!
+
